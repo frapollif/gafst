@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#: .\staticfiles\js\main.js:94 .\staticfiles\js\main.js:98
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-13 10:52+0100\n"
+"PO-Revision-Date: 2023-07-28 11:58+0200\n"
+"Last-Translator:   <admin@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Translated-Using: django-rosetta 0.9.9\n"
+
+#: .\staticfiles\js\datatables1.13.4\datatables.min.js:33
+msgid ""
+"assert.fail() with more than one argument is deprecated. Please use assert."
+"strictEqual() instead or only pass a message."
+msgstr ""
+
+#: .\staticfiles\js\datatables1.13.4\datatables.min.js:33
+msgid "expected"
+msgstr ""
+
+#: .\staticfiles\js\datatables1.13.4\datatables.min.js:33
+msgid "fn"
+msgstr ""
+
+#: .\staticfiles\js\datatables1.13.4\datatables.min.js:33
+msgid "promiseFn"
+msgstr ""
+
+#: .\staticfiles\js\datatables1.13.4\datatables.min.js:33
+msgid "error"
+msgstr ""
+
+#: .\staticfiles\js\datatables1.13.4\datatables.min.js:33
+msgid "Reduce of empty array with no initial value"
+msgstr ""
+
+#: .\staticfiles\js\datatables1.13.4\datatables.min.js:33
+msgid "Accessors not supported"
+msgstr ""
+
+#: .\staticfiles\js\datatables1.13.4\datatables.min.js:33
+msgid "includes"
+msgstr ""
+
+#: .\staticfiles\js\datatables1.13.4\datatables.min.js:33
+msgid "flags"
+msgstr ""
+
+#: .\staticfiles\js\datatables1.13.4\datatables.min.js:33
+msgid "iterator"
+msgstr ""
+
+#: .\staticfiles\js\datatables1.13.4\datatables.min.js:33
+msgid "toStringTag"
+msgstr ""
+
+#: .\staticfiles\js\main.js:89
+msgid "."
+msgstr "."
+
+#: .\staticfiles\js\main.js:90
+msgid "No data available in table"
+msgstr "Nessun dato disponibile nella tabella"
+
+#: .\staticfiles\js\main.js:91
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Mostra da _START_ a _END_ del _TOTAL_ delle voci"
+
+#: .\staticfiles\js\main.js:92
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Mostrando da 0 a 0 di 0 voci"
+
+#: .\staticfiles\js\main.js:93
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtrato da _MAX_ voci totali)"
+
+#: .\staticfiles\js\main.js:95
+msgid ","
+msgstr ","
+
+#: .\staticfiles\js\main.js:96
+msgid "Show _MENU_ entries"
+msgstr "Mostra le voci del _MENU_"
+
+#: .\staticfiles\js\main.js:97
+msgid "Loading..."
+msgstr "Caricamento..."
+
+#: .\staticfiles\js\main.js:99
+msgid "Search:"
+msgstr "Ricerca:"
+
+#: .\staticfiles\js\main.js:100
+msgid "No matching records found"
+msgstr "Nessun record corrispondente trovato"
+
+#: .\staticfiles\js\main.js:102
+msgid "First"
+msgstr "Primo"
+
+#: .\staticfiles\js\main.js:103
+msgid "Last"
+msgstr "Ultimo"
+
+#: .\staticfiles\js\main.js:104
+msgid "Next"
+msgstr "Avanti"
+
+#: .\staticfiles\js\main.js:105
+msgid "Previous"
+msgstr "Precedente"
+
+#: .\staticfiles\js\main.js:108
+msgid ": activate to sort column ascending"
+msgstr ": attivare l'ordinamento ascendente delle colonne"
+
+#: .\staticfiles\js\main.js:109
+msgid ": activate to sort column descending"
+msgstr ": attivare l'ordinamento decrescente delle colonne"
+
+#: .\staticfiles\js\main.js:166
+msgid "Export"
+msgstr "Esportazione"
