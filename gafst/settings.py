@@ -85,15 +85,22 @@ WSGI_APPLICATION = "gafst.wsgi.application"
 
 DATABASES = {
     "default": {
-        "ENGINE": "django.db.backends.mysql",
-        "NAME": "fstbadmin$gafst",
-        "USER": "fstbadmin",
-        "PASSWORD": "ZYah-Fqhv-pfHF-vXSZ-draj-zmPg",
-        "HOST": "fstbadmin.mysql.pythonanywhere-services.com",
-        "PORT": "3306",
-        "OPTIONS": {"init_command": "SET sql_mode='STRICT_TRANS_TABLES'"},
+        "ENGINE": "django.db.backends.sqlite3",
+        "NAME": "fstbdatabase",
     }
 }
+
+# DATABASES = {
+#     "default": {
+#         "ENGINE": "django.db.backends.mysql",
+#         "NAME": "fstbadmin$gafst",
+#         "USER": "fstbadmin",
+#         "PASSWORD": "ZYah-Fqhv-pfHF-vXSZ-draj-zmPg",
+#         "HOST": "fstbadmin.mysql.pythonanywhere-services.com",
+#         "PORT": "3306",
+#         "OPTIONS": {"init_command": "SET sql_mode='STRICT_TRANS_TABLES'"},
+#     }
+# }
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
